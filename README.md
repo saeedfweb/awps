@@ -19,6 +19,8 @@ This theme relies on **NPM** and **Composer** in order to load dependencies and 
 * Open a Terminal window on the location of the theme folder
 * Execute `composer install`
 * Execute `npm install`
+* if you got error "The Mix manifest does not exist when it does exist"
+* then execute `npm run production`
 
 
 ## Webpack
